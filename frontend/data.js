@@ -31,7 +31,7 @@ x: {
  
   xsMax: {
     name: "iPhone XS Max",
-    image: "xs-max.png",
+    image: "xsmax.png",
     price: "",
     display: "6.5-inch (157.5 x 77.4 x 7.7 mm) Super Retina OLED, 60Hz, 625 nits (typ)",
     weight: "208g",
@@ -76,7 +76,7 @@ x: {
  
   elevenPro: {
     name: "iPhone 11 Pro",
-    image: "11-pro.png",
+    image: "11pro.png",
     price: "",
     display: "5.8-inch (144 x 71.4 x 8.1 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "188g",
@@ -91,7 +91,7 @@ x: {
  
   elevenProMax: {
     name: "iPhone 11 Pro Max",
-    image: "11-pro-max.png",
+    image: "11promax.png",
     price: "",
     display: "6.5-inch (158 x 77.8 x 8.1 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "226g",
@@ -103,10 +103,23 @@ x: {
     battery: "3969 mAh",
     storage: "64GB/256GB/512GB",
   },
- 
+  se2020: {
+    name: "iPhone SE (2nd generation)",
+    image: "se2.png",
+    price: "",
+    display: "4.7-inch (138.4 x 67.3 x 7.3 mm) Retina IPS LCD, 60Hz, 625 nits (typ)",
+    weight: "148g",
+    chip: "Apple A13 Bionic (7 nm)",
+    RAM: "3GB",
+    rear_camera: "12MP wide, 4K@24/30/60fps, 1080p@30/60/120/240fps",
+    front_camera: "7MP, f/2.2, 1080p@25/30fps",
+    port: "Lightning",
+    battery: "1821 mAh",
+    storage: "64GB/128GB/256GB",
+  },
   twelveMini: {
     name: "iPhone 12 mini",
-    image: "12-mini.png",
+    image: "12mini.png",
     price: "",
     display: "5.4-inch (131.5 x 64.2 x 7.4 mm) Super Retina XDR OLED, 60Hz, 625 nits (typ)",
     weight: "133g",
@@ -136,7 +149,7 @@ x: {
  
   twelvePro: {
     name: "iPhone 12 Pro",
-    image: "12-pro.png",
+    image: "12pro.png",
     price: "",
     display: "6.1-inch (146.7 x 71.5 x 7.4 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "187g",
@@ -151,7 +164,7 @@ x: {
  
   twelveProMax: {
     name: "iPhone 12 Pro Max",
-    image: "12-pro-max.png",
+    image: "12promax.png",
     price: "",
     display: "6.7-inch (160.8 x 78.1 x 7.4 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "228g",
@@ -166,7 +179,7 @@ x: {
  
   thirteenMini: {
     name: "iPhone 13 mini",
-    image: "13-mini.png",
+    image: "13mini.png",
     price: "",
     display: "5.4-inch (131.5 x 64.2 x 7.65 mm) Super Retina XDR OLED, 60Hz, 625 nits (typ)",
     weight: "141g",
@@ -196,7 +209,7 @@ x: {
  
   thirteenPro: {
     name: "iPhone 13 Pro",
-    image: "13-pro.png",
+    image: "13pro.png",
     price: "",
     display: "6.1-inch (146.7 x 71.5 x 7.65 mm) Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ)",
     weight: "204g",
@@ -211,7 +224,7 @@ x: {
  
   thirteenProMax: {
     name: "iPhone 13 Pro Max",
-    image: "13-pro-max.png",
+    image: "13promax.png",
     price: "",
     display: "6.7-inch (160.8 x 78.1 x 7.65 mm) Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ)",
     weight: "238g",
@@ -223,7 +236,20 @@ x: {
     battery: "4352 mAh",
     storage: "128GB/256GB/512GB/1TB",
   },
- 
+  se2022: {
+    name: "iPhone SE (3rd generation)",
+    image: "se3.png",
+    price: "",
+    display: "4.7-inch (138.4 x 67.3 x 7.3 mm) Retina IPS LCD, 60Hz, 625 nits (typ)",
+    weight: "144g",
+    chip: "Apple A15 Bionic (5 nm)",
+    RAM: "4GB",
+    rear_camera: "12MP wide, 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps",
+    front_camera: "7MP, f/2.2, 1080p@25/30fps",
+    port: "Lightning",
+    battery: "2018 mAh",
+    storage: "64GB/128GB/256GB",
+  },
   fourteen: {
     name: "iPhone 14",
     image: "14.png",
@@ -241,7 +267,7 @@ x: {
  
   fourteenPlus: {
     name: "iPhone 14 Plus",
-    image: "14-plus.png",
+    image: "14plus.png",
     price: "",
     display: "6.7-inch (160.8 x 78.1 x 7.8 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "203g",
@@ -256,7 +282,7 @@ x: {
  
   fourteenPro: {
     name: "iPhone 14 Pro",
-    image: "14-pro.png",
+    image: "14pro.png",
     price: "",
     display: "6.1-inch (147.5 x 71.5 x 7.85 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "206g",
@@ -271,7 +297,7 @@ x: {
  
   fourteenProMax: {
     name: "iPhone 14 Pro Max",
-    image: "14-pro-max.png",
+    image: "14promax.png",
     price: "",
     display: "6.7-inch (160.7 x 77.6 x 7.85 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "240g",
@@ -301,7 +327,7 @@ x: {
  
   fifteenPlus: {
     name: "iPhone 15 Plus",
-    image: "15-plus.png",
+    image: "15plus.png",
     price: "",
     display: "6.7-inch (160.9 x 77.8 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
     weight: "201g",
@@ -316,7 +342,7 @@ x: {
  
   fifteenPro: {
     name: "iPhone 15 Pro",
-    image: "15-pro.png",
+    image: "15pro.png",
     price: "",
     display: "6.1-inch (146.6 x 70.6 x 8.25 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "187g",
@@ -331,7 +357,7 @@ x: {
  
   fifteenProMax: {
     name: "iPhone 15 Pro Max",
-    image: "15-pro-max.png",
+    image: "15promax.png",
     price: "",
     display: "6.7-inch (159.9 x 76.7 x 8.25 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "221g",
@@ -343,7 +369,21 @@ x: {
     battery: "4441 mAh",
     storage: "256GB/512GB/1TB",
   },
- 
+ sixteenE: {
+    name: "iPhone 16e",
+    image: "16e.png",
+    price: "",
+    display: "6.1-inch (147.6 x 71.6 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
+    weight: "167g",
+    chip: "Apple A18 (3 nm)",
+    RAM: "8GB",
+    rear_camera: "48MP wide, 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps",
+    front_camera: "12MP, f/1.9, 4K@24/25/30/60fps",
+    port: "USB-C",
+    battery: "4005 mAh",
+    storage: "128GB/256GB/512GB",
+  },
+  
   sixteen: {
     name: "iPhone 16",
     image: "16.png",
@@ -361,7 +401,7 @@ x: {
  
   sixteenPlus: {
     name: "iPhone 16 Plus",
-    image: "16-plus.png",
+    image: "16plus.png",
     price: "",
     display: "6.7-inch (160.9 x 77.8 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
     weight: "199g",
@@ -376,7 +416,7 @@ x: {
  
   sixteenPro: {
     name: "iPhone 16 Pro",
-    image: "16-pro.png",
+    image: "16pro.png",
     price: "",
     display: "6.3-inch (149.6 x 71.5 x 8.25 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "199g",
@@ -389,22 +429,49 @@ x: {
     storage: "128GB/256GB/512GB/1TB",
   },
  
-  // Kept as-is from your file, matches what I found too
   iphone16promax: {
     name: "Iphone 16 pro max",
-    image: "iphone16promax.png",
+    image: "16promax.png",
     price: "",
     display: "6.9-inch (163 x 77.6 x 8.3 mm) LTPO Super Retina XDR OLED, 120Hz, 2000 nits (HBM) ",
     weight : "227g",
     chip: "Apple A18 Pro (3 nm)",
     RAM : "8GB" ,
-    rear_camera: "48 MP/48MP/12MP 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps,",
-    front_camera : "12 MP, f/1.9, 23mm (wide) 4K@24/25/30/60fps, 1080p@25/30/60/120fps",
+    rear_camera: "48 MP wide + 48MP ultrawide + 12MP telephoto (5x) 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps,",
+    front_camera : "12 MP, f/1.9, 4K@24/25/30/60fps ",
     port : "USB Type-C 3.2 Gen 2, DisplayPort",
     battery: "4685 mAh",
     storage: "256Gb/512Gb/1t",
   },
- 
+  air: {
+    name: "iPhone Air",
+    image: "air.png",
+    price: "",
+    display: "6.5-inch (156.2 x 74.7 x 5.64 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
+    weight: "165g",
+    chip: "Apple A19 Pro (3 nm)",
+    RAM: "12GB",
+    rear_camera: "48MP wide, 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps",
+    front_camera: "18MP Center Stage, f/1.9, 4K@24/25/30/60fps",
+    port: "USB-C",
+    battery: "3149 mAh",
+    storage: "256GB/512GB/1TB",
+  },
+  seventeenE: {
+    name: "iPhone 17e",
+    image: "17e.png",
+    price: "",
+    display: "6.1-inch (146.7 x 71.5 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
+    weight: "169g",
+    chip: "Apple A19 (3 nm)",
+    RAM: "8GB",
+    rear_camera: "48MP wide, 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps",
+    front_camera: "12MP, f/1.9, 4K@24/25/30/60fps",
+    port: "USB-C",
+    battery: "4005 mAh",
+    storage: "256GB/512GB",
+  },
+
   seventeen: {
     name: "iPhone 17",
     image: "17.png",
@@ -422,7 +489,7 @@ x: {
  
   seventeenPro: {
     name: "iPhone 17 Pro",
-    image: "17-pro.png",
+    image: "17pro.png",
     price: "",
     display: "6.3-inch (150.0 x 71.9 x 8.75 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
     weight: "206g",
@@ -437,7 +504,7 @@ x: {
  
   seventeenProMax: {
     name: "iPhone 17 Pro Max",
-    image: "iphone17promax.png",
+    image: "17promax.png",
     price: "",
     display: "6.9-inch (163.4 x 78.0 x 8.75 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
     weight: "233g",
@@ -452,7 +519,7 @@ x: {
  
   eighteenPro: {
     name: "iPhone 18 Pro",
-    image: "18-pro.png",
+    image: "18pro.png",
     price: "",
     display: "6.3-inch LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
     weight: "unreleased spec, check closer to launch",
@@ -467,7 +534,7 @@ x: {
  
   eighteenProMax: {
     name: "iPhone 18 Pro Max",
-    image: "18-pro-max.png",
+    image: "18promax.png",
     price: "",
     display: "6.9-inch LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
     weight: "233g",
