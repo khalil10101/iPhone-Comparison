@@ -2,7 +2,7 @@ const phones = {
 x: {
     name: "iPhone X",
     image: "x.png",
-    price: "",
+    price: "800-1000",
     display: "5.8-inch (143.6 x 70.9 x 7.7 mm) Super Retina OLED, 60Hz, 625 nits (typ)",
     weight: "174g",
     chip: "Apple A11 Bionic (10 nm)",
@@ -17,7 +17,7 @@ x: {
   xs: {
     name: "iPhone XS",
     image: "xs.png",
-    price: "",
+    price: "1000-1400",
     display: "5.8-inch (143.6 x 70.9 x 7.7 mm) Super Retina OLED, 60Hz, 625 nits (typ)",
     weight: "177g",
     chip: "Apple A12 Bionic (7 nm)",
@@ -32,7 +32,7 @@ x: {
   xsMax: {
     name: "iPhone XS Max",
     image: "xsmax.png",
-    price: "",
+    price: "1300-1800",
     display: "6.5-inch (157.5 x 77.4 x 7.7 mm) Super Retina OLED, 60Hz, 625 nits (typ)",
     weight: "208g",
     chip: "Apple A12 Bionic (7 nm)",
@@ -47,7 +47,7 @@ x: {
   xr: {
     name: "iPhone XR",
     image: "xr.png",
-    price: "",
+    price: "1000-1300",
     display: "6.1-inch (150.9 x 75.7 x 8.3 mm) Liquid Retina LCD, 60Hz, 625 nits (typ)",
     weight: "194g",
     chip: "Apple A12 Bionic (7 nm)",
@@ -62,7 +62,7 @@ x: {
   eleven: {
     name: "iPhone 11",
     image: "11.png",
-    price: "",
+    price: "1300-1600",
     display: "6.1-inch (150.9 x 75.7 x 8.3 mm) Liquid Retina LCD, 60Hz, 625 nits (typ)",
     weight: "194g",
     chip: "Apple A13 Bionic (7 nm)",
@@ -77,7 +77,7 @@ x: {
   elevenPro: {
     name: "iPhone 11 Pro",
     image: "11pro.png",
-    price: "",
+    price: "1500-1800",
     display: "5.8-inch (144 x 71.4 x 8.1 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "188g",
     chip: "Apple A13 Bionic (7 nm)",
@@ -92,7 +92,7 @@ x: {
   elevenProMax: {
     name: "iPhone 11 Pro Max",
     image: "11promax.png",
-    price: "",
+    price: "1700-2100",
     display: "6.5-inch (158 x 77.8 x 8.1 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "226g",
     chip: "Apple A13 Bionic (7 nm)",
@@ -106,7 +106,7 @@ x: {
   se2020: {
     name: "iPhone SE (2nd generation)",
     image: "se2.png",
-    price: "",
+    price: "800-1100",
     display: "4.7-inch (138.4 x 67.3 x 7.3 mm) Retina IPS LCD, 60Hz, 625 nits (typ)",
     weight: "148g",
     chip: "Apple A13 Bionic (7 nm)",
@@ -120,7 +120,7 @@ x: {
   twelveMini: {
     name: "iPhone 12 mini",
     image: "12mini.png",
-    price: "",
+    price: "1300-1800",
     display: "5.4-inch (131.5 x 64.2 x 7.4 mm) Super Retina XDR OLED, 60Hz, 625 nits (typ)",
     weight: "133g",
     chip: "Apple A14 Bionic (5 nm)",
@@ -135,7 +135,7 @@ x: {
   twelve: {
     name: "iPhone 12",
     image: "12.png",
-    price: "",
+    price: "1700-2200",
     display: "6.1-inch (146.7 x 71.5 x 7.4 mm) Super Retina XDR OLED, 60Hz, 625 nits (typ)",
     weight: "164g",
     chip: "Apple A14 Bionic (5 nm)",
@@ -150,7 +150,7 @@ x: {
   twelvePro: {
     name: "iPhone 12 Pro",
     image: "12pro.png",
-    price: "",
+    price: "2200-2800",
     display: "6.1-inch (146.7 x 71.5 x 7.4 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "187g",
     chip: "Apple A14 Bionic (5 nm)",
@@ -165,7 +165,7 @@ x: {
   twelveProMax: {
     name: "iPhone 12 Pro Max",
     image: "12promax.png",
-    price: "",
+    price: "2900-3400",
     display: "6.7-inch (160.8 x 78.1 x 7.4 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "228g",
     chip: "Apple A14 Bionic (5 nm)",
@@ -180,7 +180,7 @@ x: {
   thirteenMini: {
     name: "iPhone 13 mini",
     image: "13mini.png",
-    price: "",
+    price: "1800-2300",
     display: "5.4-inch (131.5 x 64.2 x 7.65 mm) Super Retina XDR OLED, 60Hz, 625 nits (typ)",
     weight: "141g",
     chip: "Apple A15 Bionic (5 nm)",
@@ -195,7 +195,7 @@ x: {
   thirteen: {
     name: "iPhone 13",
     image: "13.png",
-    price: "",
+    price: "2800-3500",
     display: "6.1-inch (146.7 x 71.5 x 7.65 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "174g",
     chip: "Apple A15 Bionic (5 nm)",
@@ -210,7 +210,7 @@ x: {
   thirteenPro: {
     name: "iPhone 13 Pro",
     image: "13pro.png",
-    price: "",
+    price: "3600-4300",
     display: "6.1-inch (146.7 x 71.5 x 7.65 mm) Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ)",
     weight: "204g",
     chip: "Apple A15 Bionic (5 nm)",
@@ -225,7 +225,7 @@ x: {
   thirteenProMax: {
     name: "iPhone 13 Pro Max",
     image: "13promax.png",
-    price: "",
+    price: "4000-4700",
     display: "6.7-inch (160.8 x 78.1 x 7.65 mm) Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ)",
     weight: "238g",
     chip: "Apple A15 Bionic (5 nm)",
@@ -239,7 +239,7 @@ x: {
   se2022: {
     name: "iPhone SE (3rd generation)",
     image: "se3.png",
-    price: "",
+    price: "1300-1700",
     display: "4.7-inch (138.4 x 67.3 x 7.3 mm) Retina IPS LCD, 60Hz, 625 nits (typ)",
     weight: "144g",
     chip: "Apple A15 Bionic (5 nm)",
@@ -253,7 +253,7 @@ x: {
   fourteen: {
     name: "iPhone 14",
     image: "14.png",
-    price: "",
+    price: "3100-3700",
     display: "6.1-inch (146.7 x 71.5 x 7.8 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "172g",
     chip: "Apple A15 Bionic (5 nm)",
@@ -268,7 +268,7 @@ x: {
   fourteenPlus: {
     name: "iPhone 14 Plus",
     image: "14plus.png",
-    price: "",
+    price: "3800-4300",
     display: "6.7-inch (160.8 x 78.1 x 7.8 mm) Super Retina XDR OLED, 60Hz, 800 nits (typ)",
     weight: "203g",
     chip: "Apple A15 Bionic (5 nm)",
@@ -283,7 +283,7 @@ x: {
   fourteenPro: {
     name: "iPhone 14 Pro",
     image: "14pro.png",
-    price: "",
+    price: "4500-5300",
     display: "6.1-inch (147.5 x 71.5 x 7.85 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "206g",
     chip: "Apple A16 Bionic (4 nm)",
@@ -298,7 +298,7 @@ x: {
   fourteenProMax: {
     name: "iPhone 14 Pro Max",
     image: "14promax.png",
-    price: "",
+    price: "5000-5700",
     display: "6.7-inch (160.7 x 77.6 x 7.85 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "240g",
     chip: "Apple A16 Bionic (4 nm)",
@@ -313,7 +313,7 @@ x: {
   fifteen: {
     name: "iPhone 15",
     image: "15.png",
-    price: "",
+    price: "4200-4800",
     display: "6.1-inch (147.6 x 71.6 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
     weight: "171g",
     chip: "Apple A16 Bionic (4 nm)",
@@ -328,7 +328,7 @@ x: {
   fifteenPlus: {
     name: "iPhone 15 Plus",
     image: "15plus.png",
-    price: "",
+    price: "4700-5200",
     display: "6.7-inch (160.9 x 77.8 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
     weight: "201g",
     chip: "Apple A16 Bionic (4 nm)",
@@ -343,7 +343,7 @@ x: {
   fifteenPro: {
     name: "iPhone 15 Pro",
     image: "15pro.png",
-    price: "",
+    price: "5700-6500",
     display: "6.1-inch (146.6 x 70.6 x 8.25 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "187g",
     chip: "Apple A17 Pro (3 nm)",
@@ -358,7 +358,7 @@ x: {
   fifteenProMax: {
     name: "iPhone 15 Pro Max",
     image: "15promax.png",
-    price: "",
+    price: "6500-7200",
     display: "6.7-inch (159.9 x 76.7 x 8.25 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "221g",
     chip: "Apple A17 Pro (3 nm)",
@@ -372,7 +372,7 @@ x: {
  sixteenE: {
     name: "iPhone 16e",
     image: "16e.png",
-    price: "",
+    price: "4000-4500",
     display: "6.1-inch (147.6 x 71.6 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
     weight: "167g",
     chip: "Apple A18 (3 nm)",
@@ -387,7 +387,7 @@ x: {
   sixteen: {
     name: "iPhone 16",
     image: "16.png",
-    price: "",
+    price: "5800-6500",
     display: "6.1-inch (147.6 x 71.6 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
     weight: "170g",
     chip: "Apple A18 (3 nm)",
@@ -402,7 +402,7 @@ x: {
   sixteenPlus: {
     name: "iPhone 16 Plus",
     image: "16plus.png",
-    price: "",
+    price: "6800-7500",
     display: "6.7-inch (160.9 x 77.8 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
     weight: "199g",
     chip: "Apple A18 (3 nm)",
@@ -417,7 +417,7 @@ x: {
   sixteenPro: {
     name: "iPhone 16 Pro",
     image: "16pro.png",
-    price: "",
+    price: "7200-8200",
     display: "6.3-inch (149.6 x 71.5 x 8.25 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 2000 nits (peak)",
     weight: "199g",
     chip: "Apple A18 Pro (3 nm)",
@@ -432,7 +432,7 @@ x: {
   iphone16promax: {
     name: "Iphone 16 pro max",
     image: "16promax.png",
-    price: "",
+    price: "8200-9000",
     display: "6.9-inch (163 x 77.6 x 8.3 mm) LTPO Super Retina XDR OLED, 120Hz, 2000 nits (HBM) ",
     weight : "227g",
     chip: "Apple A18 Pro (3 nm)",
@@ -446,7 +446,7 @@ x: {
   air: {
     name: "iPhone Air",
     image: "air.png",
-    price: "",
+    price: "7600-8500",
     display: "6.5-inch (156.2 x 74.7 x 5.64 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
     weight: "165g",
     chip: "Apple A19 Pro (3 nm)",
@@ -460,7 +460,7 @@ x: {
   seventeenE: {
     name: "iPhone 17e",
     image: "17e.png",
-    price: "",
+    price: "6500-7000",
     display: "6.1-inch (146.7 x 71.5 x 7.8 mm) Super Retina XDR OLED, 60Hz, 1000 nits (typ), 2000 nits (peak)",
     weight: "169g",
     chip: "Apple A19 (3 nm)",
@@ -475,7 +475,7 @@ x: {
   seventeen: {
     name: "iPhone 17",
     image: "17.png",
-    price: "",
+    price: "7500-8200",
     display: "6.3-inch (149.6 x 71.5 x 7.95 mm) Super Retina XDR OLED, 120Hz ProMotion, 2000 nits (peak)",
     weight: "177g",
     chip: "Apple A19 (3 nm)",
@@ -490,7 +490,7 @@ x: {
   seventeenPro: {
     name: "iPhone 17 Pro",
     image: "17pro.png",
-    price: "",
+    price: "10500-11200",
     display: "6.3-inch (150.0 x 71.9 x 8.75 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
     weight: "206g",
     chip: "Apple A19 Pro (3 nm)",
@@ -505,7 +505,7 @@ x: {
   seventeenProMax: {
     name: "iPhone 17 Pro Max",
     image: "17promax.png",
-    price: "",
+    price: "11500-13000",
     display: "6.9-inch (163.4 x 78.0 x 8.75 mm) LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
     weight: "233g",
     chip: "Apple A19 Pro (3 nm)",
