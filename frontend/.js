@@ -2,7 +2,6 @@
   const pickers = document.getElementById("pickers");
   const specsBox = document.getElementById("specs");
  
-  // 2. Build the three picker cards once
   chosen.forEach((_, i) => {
     const card = document.createElement("div");
     card.className = "card";
@@ -20,7 +19,6 @@
     });
   });
  
-  // 3. Redraw everything from the `chosen` array
   function render() {
     chosen.forEach((key, i) => {
       const p = phones[key];
@@ -37,7 +35,6 @@
  
     specsBox.innerHTML = specs.map(([field, label]) => {
       const values = chosen.map(k => phones[k] ? phones[k][field] : "—");
-      // "differs" = more than one unique value among the phones actually chosen
       const real = chosen.filter(k => phones[k]).map(k => phones[k][field]);
       const differs = new Set(real).size > 1;
       return `<div class="spec ${differs ? "diff" : ""}">

@@ -6,12 +6,8 @@
   h1 { text-align: center; font-size: 2.6rem; margin: 3rem 0 .5rem; letter-spacing: -.02em; }
   .sub { text-align: center; color: #6e6e73; margin: 0 0 2.5rem; }
  
-
-  /* The whole layout: 3 equal columns. Every row below reuses this same grid,
-     which is what keeps the specs lined up across the phones. */
   .cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
  
-  /* Top section (pickers) sticks to the top while you scroll */
   .top { position: sticky; top: 0; background: rgba(255,255,255,.92); backdrop-filter: blur(8px);
          padding: 1rem 0; border-bottom: 1px solid #d2d2d7; z-index: 5; }
   .card { text-align:center; min-width: 0; }

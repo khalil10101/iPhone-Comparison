@@ -27,6 +27,7 @@ x: {
     port: "Lightning",
     battery: "2658 mAh",
     storage: "64GB/256GB/512GB",
+    review: "only buy this if you're out of your mind "
   },
  
   xsMax: {
@@ -556,4 +557,5 @@ const specs = [
   ["front_camera", "Front Camera"],
   ["battery", "Battery Capacity"],
   ["storage", "Storage"],
+  ["review", "Review"],
 ];
