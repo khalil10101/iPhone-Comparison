@@ -12,6 +12,8 @@ x: {
     port: "Lightning",
     battery: "2716 mAh",
     storage: "64GB/256GB",
+    review: "don't even consider buying this in the big 26 gng  ",
+    note : "4/10",
   },
  
   xs: {
@@ -27,7 +29,8 @@ x: {
     port: "Lightning",
     battery: "2658 mAh",
     storage: "64GB/256GB/512GB",
-    review: "only buy this if you're out of your mind "
+    review: "honestly still a good choice if ur budget is very low, great camera the desing is still timless a great choice for brokies  ",
+    note : "8/10"
   },
  
   xsMax: {
@@ -43,6 +46,8 @@ x: {
     port: "Lightning",
     battery: "3174 mAh",
     storage: "64GB/256GB/512GB",
+    review: "again a good choice for brokies, great camera great design...battery may be cooked, but i'm just into big phones",
+    note:"6/10",
   },
  
   xr: {
@@ -58,6 +63,8 @@ x: {
     port: "Lightning",
     battery: "2942 mAh",
     storage: "64GB/128GB/256GB",
+    review: "i see this shit everywhere, is this some kind of propaganda, this phone is ass what are u poeple on ",
+    note:"2/10",
   },
  
   eleven: {
@@ -73,6 +80,8 @@ x: {
     port: "Lightning",
     battery: "3110 mAh",
     storage: "64GB/128GB/256GB",
+    review: "are we fr twin? the once in the big 26 just slime that shit, battery is so bad no 5G no good screen,u don't see shit in that screen on the outside and it's just ugly ",
+    note:"1/10",
   },
  
   elevenPro: {
@@ -88,6 +97,8 @@ x: {
     port: "Lightning",
     battery: "3046 mAh",
     storage: "64GB/256GB/512GB",
+    review: "personally the best iphone pro no glaze fr, don't bother yourself with no 120hz, battery cooked shit all that is negative, if u want an iphone that works fine and beautiful at the same time and also not expensive this is it, easily the best iphone under 2000dh  ",
+    note:"8.5/10",
   },
  
   elevenProMax: {
@@ -103,6 +114,8 @@ x: {
     port: "Lightning",
     battery: "3969 mAh",
     storage: "64GB/256GB/512GB",
+    review:"same as the 11 pro except a bigger chasis honestly a good choice if u like big phones ",
+    note:"8/10",
   },
   se2020: {
     name: "iPhone SE (2nd generation)",
@@ -117,6 +130,8 @@ x: {
     port: "Lightning",
     battery: "1821 mAh",
     storage: "64GB/128GB/256GB",
+    review: "the whole se series is good, i love it because m into small phones ",
+    note:"7/10",
   },
   twelveMini: {
     name: "iPhone 12 mini",
@@ -131,6 +146,8 @@ x: {
     port: "Lightning",
     battery: "2227 mAh",
     storage: "64GB/128GB/256GB",
+    review: "i don't know how to feel about the mini series i mean at this point just take the se(2022) cheaper and better",
+    note:"4/10",
   },
  
   twelve: {
@@ -146,6 +163,8 @@ x: {
     port: "Lightning",
     battery: "2815 mAh",
     storage: "64GB/128GB/256GB",
+    review: "this mf is hotter than the sun and it's just so ugly, the battery is so bad i'm not even gonna talk about other negatives",
+    note:"4/10",
   },
  
   twelvePro: {
@@ -161,6 +180,8 @@ x: {
     port: "Lightning",
     battery: "2815 mAh",
     storage: "128GB/256GB/512GB",
+    review: "this is literally the safest option, i mean for around 2500 this is a good deal but honestly just wait and buy the 13 pro, and if u can't upgrade, it's still a good deal",
+    note:"8.5/10",
   },
  
   twelveProMax: {
@@ -176,6 +197,8 @@ x: {
     port: "Lightning",
     battery: "3687 mAh",
     storage: "128GB/256GB/512GB",
+    review:"safe choice but m just not really into big ass phones and for that price just get a 13 pro or a base model 13  ",
+    note:"6.5/10",
   },
  
   thirteenMini: {
@@ -191,6 +214,8 @@ x: {
     port: "Lightning",
     battery: "2406 mAh",
     storage: "128GB/256GB/512GB",
+    review:"Just get an SE or a base 13  ",
+    note:"5/10",
   },
  
   thirteen: {
@@ -206,6 +231,8 @@ x: {
     port: "Lightning",
     battery: "3227 mAh",
     storage: "128GB/256GB/512GB",
+    review:"the most overrated phone i have ever seen, the glaze is so big it affected it's price, same price as the base 14, they are the same phone anyway but common it's a genertion older, at this point just get the 12 pro for less u won't miss much except the 2gb ram and that's it  ",
+    note:"6",
   },
  
   thirteenPro: {
@@ -221,6 +248,8 @@ x: {
     port: "Lightning",
     battery: "3095 mAh",
     storage: "128GB/256GB/512GB/1TB",
+    review:"a very good deal in my opinion ur not missing much on newer models, ur getting a decent battery good 120hz screen, good camera, no dynamic island but who cares, this is literally the sweet spot, and that alpine green is just so beautiful the best color apple has ever dropped ",
+    note:"9/10",
   },
  
   thirteenProMax: {
@@ -236,6 +265,8 @@ x: {
     port: "Lightning",
     battery: "4352 mAh",
     storage: "128GB/256GB/512GB/1TB",
+    review:"heavy asf, 238g bro are we serious, just get a tablet at this point ",
+    note:"7.5/10",
   },
   se2022: {
     name: "iPhone SE (3rd generation)",
@@ -250,6 +281,8 @@ x: {
     port: "Lightning",
     battery: "2018 mAh",
     storage: "64GB/128GB/256GB",
+    review:"a very good deal considering the price and the fact it has the same chip as the 13 lineup, if u just want a phone that is fast, small, lightweight the SE is ur go to",
+    note:"9/10",
   },
   fourteen: {
     name: "iPhone 14",
@@ -264,6 +297,8 @@ x: {
     port: "Lightning",
     battery: "3279 mAh",
     storage: "128GB/256GB/512GB",
+    review:"just get the 13 pro this is not worth it i mean it's good and all but i rather a pro model for almost the same price ",
+    note:"7/10",
   },
  
   fourteenPlus: {
@@ -279,6 +314,8 @@ x: {
     port: "Lightning",
     battery: "4325 mAh",
     storage: "128GB/256GB/512GB",
+    review:"you know what's worst than a big ass phone a big ass phone with shitty specs just get the pro max if u want a big battery otherwise get the base or pro model  ",
+    note:"5/10",
   },
  
   fourteenPro: {
@@ -294,6 +331,8 @@ x: {
     port: "Lightning",
     battery: "3200 mAh",
     storage: "128GB/256GB/512GB/1TB",
+    review:"I'm not gonna be biased because i have one but let's be fr this is the best phone u can buy right now, if the 13 pro is the sweet spot this is sweeter, my only complaint is the weight other than that a solide 10, very beautiful with that stainless steel and also strong as hell",
+    note:"10/10",
   },
  
   fourteenProMax: {
@@ -309,6 +348,8 @@ x: {
     port: "Lightning",
     battery: "4323 mAh",
     storage: "128GB/256GB/512GB/1TB",
+    review:"such a beautiful phone, but it's a shame it's heavy, like what do mean 240g if u use this everyday ur hands are doing extra exercice s",
+    note:"7.5/10",
   },
  
   fifteen: {
@@ -324,6 +365,8 @@ x: {
     port: "USB-C",
     battery: "3349 mAh",
     storage: "128GB/256GB/512GB",
+    review:"other than the usb C ur getting nothing more of the 14 pro, the 14 pro is way more better by miles ",
+    note:"7.5/10",
   },
  
   fifteenPlus: {
@@ -339,6 +382,8 @@ x: {
     port: "USB-C",
     battery: "4383 mAh",
     storage: "128GB/256GB/512GB",
+    review:"same review as the fourteen plus this plus line is just so useless just get the pro max of the older model",
+    note:"5/10",
   },
  
   fifteenPro: {
@@ -354,6 +399,8 @@ x: {
     port: "USB-C 3.0",
     battery: "3274 mAh",
     storage: "128GB/256GB/512GB/1TB",
+    review:"this is literally the best phone u can buy i would definetly put this side to side with the 14 pro althought you are getting nothing more except 2gb ram and type c and a TITANIM frame, but it gets so so hot especially in summer because of that titanium, what were apple ingenieres thinking to put such a heat conductive metal in a phone ",
+    note:"",
   },
  
   fifteenProMax: {
@@ -521,9 +568,9 @@ x: {
   eighteenPro: {
     name: "iPhone 18 Pro",
     image: "18pro.png",
-    price: "",
+    price: "not yet been confirmed ",
     display: "6.3-inch LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
-    weight: "unreleased spec, check closer to launch",
+    weight: "211g",
     chip: "Apple A20 Pro (2 nm)",
     RAM: "12GB",
     rear_camera: "48MP wide (variable aperture) + 48MP ultrawide + 48MP telephoto (periscope), 4K@24/25/30/60/100/120fps, ProRes RAW",
@@ -536,7 +583,7 @@ x: {
   eighteenProMax: {
     name: "iPhone 18 Pro Max",
     image: "18promax.png",
-    price: "",
+    price: "not yet been confirmed",
     display: "6.9-inch LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
     weight: "233g",
     chip: "Apple A20 Pro (2 nm)",
@@ -558,4 +605,5 @@ const specs = [
   ["battery", "Battery Capacity"],
   ["storage", "Storage"],
   ["review", "Review"],
+  ["note", "Note"],
 ];
