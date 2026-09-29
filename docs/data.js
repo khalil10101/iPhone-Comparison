@@ -193,7 +193,7 @@ x: {
     port: "Lightning",
     battery: "2815 mAh",
     storage: "64GB/128GB/256GB",
-    review: "This mf is hotter than the sun and it's just so ugly, The battery is so cooked i'm not even gonna talk the about other bad things, the battery alone is a big ass red flag just to the 12 pro or base 13 ",
+    review: "This mf is hotter than the sun and it's just so ugly, The battery is so cooked i'm not even gonna talk the about other bad things, the battery alone is a big ass red flag, just get the 12 pro or the base 13 ",
     note:"4/10",
   },
  
@@ -273,7 +273,7 @@ x: {
     port: "Lightning",
     battery: "3227 mAh",
     storage: "128GB/256GB/512GB",
-    review:"The most overrated phone i have ever seen, the glaze is so big it affected it's price, same price as the base 14, they are the same phone anyway but common it's a genertion older, at this point just get the 12 pro for less it has so much better features or upgrade for the 14 if u don't like pro models ",
+    review:"The most overrated phone i have ever seen, the glaze is so big it affected it's price, same price as the base 14, they are the same phone anyway but common it's a generation older, at this point just get the 12 pro for less it has so much better features or upgrade for the 14 if u don't like pro models ",
     note:"6/10",
   },
  
@@ -492,7 +492,7 @@ x: {
     battery: "4441 mAh",
     storage: "256GB/512GB/1TB",
     review:"A great design, a great camera especially with that x5 optical zoom but again my main problem with this lineup the overheating althought i love the fact that they made this the lightest pro max iphone sitting at 221g, personnaly a great deal if you don't minf the overheating sometimes  ",
-    note:"8/10",
+    note:"8.5/10",
   },
  sixteenE: {
     name: "iPhone 16e",
@@ -570,7 +570,7 @@ x: {
     port: "USB-C 3.0",
     battery: "3582 mAh",
     storage: "128GB/256GB/512GB/1TB",
-    review:"i don't even know what to say about this phone, it's just so perfect, u have everthing and more great battery, screen, design, camera... it's just the perfect iphone you can get if money wasn't a problem and that overheating problem is gone now with this lineup, this is what the 15 pro lineup think it is  ",
+    review:"i don't even know what to say about this phone, it's just so perfect, u have everything and more great battery, screen, design, camera... it's just the perfect iphone you can get if money wasn't a problem and that overheating problem is gone now with this lineup, this is what the 15 pro lineup think it is  ",
     note:"10/10",
   },
  
@@ -675,7 +675,7 @@ x: {
   seventeenProMax: {
     name: "iPhone 17 Pro Max",
     image: "17promax.png",
-    price: "11500-13000",
+    price: "14000-18000",
     date_released: "September 19, 2025",
     display: "6.9-inch LTPO Super Retina XDR OLED, 120Hz ProMotion, 3000 nits (peak)",
     dimensions: "163.4 x 78.0 x 8.75 mm",
@@ -695,7 +695,7 @@ x: {
   eighteenPro: {
     name: "iPhone 18 Pro",
     image: "18pro.png",
-    price: "20000-25000",
+    price: "17000-22000",
     date_released: "September 18, 2026",
     display: "6.3-inch LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 1600 nits (HBM) 3000 nits (peak)",
     dimensions: "150 x 71.9 x 8.8 mm",
@@ -715,14 +715,14 @@ x: {
   eighteenProMax: {
     name: "iPhone 18 Pro Max",
     image: "18promax.png",
-    price: "25000-30000",
+    price: "15000-20000",
     date_released: "September 18, 2026",
     display: "6.9-inch LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
-    dimensions: "163.4 x 78 x 8.8 mm",
+    dimensions: "163.4 x 78.0 x 8.8 mm",
     weight: "249g",
     chip: "Apple A20 Pro (2 nm)",
     RAM: "12GB",
-    rear_camera: "48MP wide (variable aperture) + 48MP ultrawide + 48MP telephoto (periscope, 4x optical), 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, ProRes, ProRes RAW, Apple Log 2",
+    rear_camera: "48MP wide (variable aperture) + 48MP ultrawide + 48MP telephoto (periscope), 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, ProRes, ProRes RAW, Apple Log 2",
     front_camera: "18MP Center Stage, f/1.9, 4K@24/25/30/60fps",
     optical_zoom: "4x optical zoom (8x optical-quality)",
     port: "USB-C 3.2 Gen 2",
