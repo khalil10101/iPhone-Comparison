@@ -637,7 +637,7 @@ x: {
     image: "17.png",
     price: "7500-8200",
     date_released: "September 19, 2025",
-    display: "6.3-inch Super Retina XDR OLED, 120Hz ProMotion, 2000 nits (peak)",
+    display: "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 3000 nits (peak)",
     dimensions: "149.6 x 71.5 x 7.95 mm",
     weight: "177g",
     chip: "Apple A19 (3 nm)",
