@@ -15,7 +15,7 @@ x: {
     port: "Lightning",
     battery: "2716 mAh",
     storage: "64GB/256GB",
-    review: "Don't even consider buying this in the big 26 gng, just upgrade to the XS it has better specs for almost the same price ",
+    review: "Don't even consider buying this in the big 26 gng, just upgrade to the XS, it has better specs for almost the same price ",
     note : "4/10",
   },
  
@@ -35,7 +35,7 @@ x: {
     battery: "2658 mAh",
     optical_zoom: "2x optical zoom",  
     storage: "64GB/256GB/512GB",
-    review: "Honestly still a good choice if you have a very tight budget, great camera the desing is still timless a great choice for brokies",
+    review: "Honestly still a good choice if you have a very tight budget, great camera the desing is still timeless, a great choice for brokies",
     note : "8/10"
   },
  
@@ -55,7 +55,7 @@ x: {
     battery: "3174 mAh",
     storage: "64GB/256GB/512GB",
     optical_zoom: "2x optical zoom",
-    review: "Basically an XS with a bigger battery and screen, everything else is the same, great camera tho, great design, but i'm just not into big phones, the smaller XS looks better",
+    review: "Basically an XS with a bigger battery and bigger screen, everything else is the same, great camera tho, great design, but i'm just not into big phones, the smaller XS looks better",
     note:"6/10",
   },
  
@@ -75,7 +75,7 @@ x: {
     port: "Lightning",
     battery: "2942 mAh",
     storage: "64GB/128GB/256GB",
-    review: "I see this shit everywhere, is this some kind of propaganda, this phone is ass what are u poeple on, battery is bad, camera is bad, screen is cooked, it gets super hot with the new updates, for a tight budget i would go with the XS instead ",
+    review: "I see this shit everywhere, is this some kind of propaganda, this phone is ass what are u people on, battery is bad, camera is bad, screen is cooked, it gets super hot with the new updates, for a tight budget i would go with the XS instead ",
     note:"2/10",
   },
  
@@ -115,7 +115,7 @@ x: {
     port: "Lightning",
     battery: "3046 mAh",
     storage: "64GB/256GB/512GB",
-    review: "Personally the best iphone pro no glaze fr, don't bother yourself with the negatives, it has so many flaws yeah but common for under 2000dh this is the best iphone you can get, if u want an iphone that works fine and beautiful at the same time and also not expensive this is it",
+    review: "Personally the best iPhone pro no glaze fr, don't bother yourself with the negatives, it has so many flaws yeah but common for under 2000dh this is the best iPhone you can get, if u want an iPhone that works fine and beautiful at the same time and also not expensive this is it",
     note:"8.5/10",
   },
  
@@ -173,7 +173,7 @@ x: {
     port: "Lightning",
     battery: "2227 mAh",
     storage: "64GB/128GB/256GB",
-    review: "I don't know how to feel about the mini series i mean at this point just take the se(2022) cheaper and better and it has that iconic touch id button if you still like it for some reason ",
+    review: "I don't know how to feel about the mini series, i mean at this point just take the se(2022) cheaper and better and it has that iconic touch id button if you still like it for some reason ",
     note:"4/10",
   },
  
@@ -193,7 +193,7 @@ x: {
     port: "Lightning",
     battery: "2815 mAh",
     storage: "64GB/128GB/256GB",
-    review: "This mf is hotter than the sun and it's just so ugly, The battery is so cooked i'm not even gonna talk the about other bad things, the battery alone is a big ass red flag, just get the 12 pro or the base 13 ",
+    review: "This mf is hotter than the sun and it's just so ugly, The battery is so cooked i'm not even gonna talk about other bad things, the battery alone is a big ass red flag, just get the 12 pro or the base 13 ",
     note:"4/10",
   },
  
@@ -213,7 +213,7 @@ x: {
     port: "Lightning",
     battery: "2815 mAh",
     storage: "128GB/256GB/512GB",
-    review: "This is literally the safest option, i mean for around 2500 this is a good deal but honestly just wait and buy the 13 pro, and if u can't upgrade, it's still a good deal, you have 90% of what the 13 pro has, the other 10% is the battery and the camera ",
+    review: "This is literally the safest option, i mean for around 2500 this is a good deal but honestly just wait and buy the 13 pro, and if u can't upgrade, it's still a good deal, you have 85% of what the 13 pro has, the other 15% is the battery and the camera and the smaller notch",
     note:"8.5/10",
   },
  
@@ -273,7 +273,7 @@ x: {
     port: "Lightning",
     battery: "3227 mAh",
     storage: "128GB/256GB/512GB",
-    review:"The most overrated phone i have ever seen, the glaze is so big it affected it's price, same price as the base 14, they are the same phone anyway but common it's a generation older, at this point just get the 12 pro for less it has so much better features or upgrade for the 14 if u don't like pro models ",
+    review:"The most overrated phone i have ever seen, the glaze is so big it affected it's price, same price as the base 14, they are the same phone anyway but common it's a generation older, at this point just get the 12 pro for less and much better features or upgrade for the 14 if u don't like pro models ",
     note:"6/10",
   },
  
@@ -391,7 +391,7 @@ x: {
     port: "Lightning",
     battery: "3200 mAh",
     storage: "128GB/256GB/512GB/1TB",
-    review:"I'm not gonna be biased because i have one but let's be fr this is the best phone u can buy right now, if the 13 pro is the sweet spot this is sweeter, my only complaint is the weight, 206g? are we deadass competing with the pro max rn, other than that not a single flaw, yes it doesn't have teh usb-c but again who cares if you're a regular user. also a very premium design with that stainless steel",
+    review:"I'm not gonna be biased because i have one but let's be fr this is the best iPhone u can buy right now, if the 13 pro is the sweet spot this is sweeter, my only complaint is the weight, 206g? are we deadass competing with the pro max rn, other than that not a single flaw, yes it doesn't have teh usb-c but again who cares if you're a regular user. also a very premium design with that stainless steel",
     note:"9.5/10",
   },
  
@@ -411,7 +411,7 @@ x: {
     port: "Lightning",
     battery: "4323 mAh",
     storage: "128GB/256GB/512GB/1TB",
-    review:"Such a beautiful phone, but it's a shame it's heavy, like what do mean 240g?, if u use this everyday, i'm praying for your hands, twin just get a regular phone like everybody if u wanna train your arms go to the gym ",
+    review:"Such a beautiful phone, but it's a shame it's heavy, like what do you mean 240g?, if u use this everyday, i'm praying for your hands, twin just get a regular phone like everybody, if u wanna train your arms go to the gym ",
     note:"7.5/10",
   },
  
@@ -491,7 +491,7 @@ x: {
     port: "USB-C 3.0",
     battery: "4441 mAh",
     storage: "256GB/512GB/1TB",
-    review:"A great design, a great camera especially with that x5 optical zoom but again my main problem with this lineup the overheating althought i love the fact that they made this the lightest pro max iphone sitting at 221g, personnaly a great deal if you don't minf the overheating sometimes  ",
+    review:"A great design, great camera especially with that x5 optical zoom but again my main problem with this lineup the overheating althought i love the fact that they made this the lightest pro max iphone sitting at 221g, personnaly a great deal if you don't minf the overheating sometimes  ",
     note:"8.5/10",
   },
  sixteenE: {
@@ -510,7 +510,7 @@ x: {
     port: "USB-C",
     battery: "4005 mAh",
     storage: "128GB/256GB/512GB",
-    review:"I know that some poeple will say this is a pointless phone because of the several drawbacks such as camera, screen, magsafe..., but you know what, this phone is literlly good for it's price, because you don't need all those things as a normal user this phone is packing the essentialls in a small chasis and a great desing with a very big batterie, way bigger than the 15 and alos a 8gb of ram and a newer chip",
+    review:"I know that some poeple will say this is a pointless phone because of the several drawbacks such as camera, screen, magsafe..., but you know what, this phone is literlly good for it's price, i heavily fuck with it, because you don't need all those things as a normal user this phone is packing the essentialls in a small chasis and a great desing with a very big batterie, way bigger than the 15 and alos a 8gb of ram and a newer chip",
     note:"8/10",
   },
   
