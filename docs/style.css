@@ -1,3 +1,50 @@
+
+  .topbar {
+    background: rgba(14, 13, 13, 0.962);
+    color: #e8e8ee;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .site-name {
+    font-size: 2.0rem;
+    font-weight: 700;
+    color:#ff6a2b;
+    text-decoration: none;
+    font-family : system-ui, -apple-system, sans-serif;
+  }
+  .nav-links {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+  }
+  .nav-links a {
+    color: #d6d6e0;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 6px 2px;
+    border-bottom: 2px solid transparent;
+  }
+  .nav-links a:hover,
+
+  .nav-links a:focus-visible {
+    color: #ffffff;
+    border-bottom-color: #ff6a2b;
+    outline: none;
+  }
+  @media (max-width: 760px) {
+    .topbar {
+      height: auto;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 12px 16px;
+    }
+    .nav-links { flex-wrap: wrap; gap: 8px 20px; }
+  }
 * {box-sizing: border-box; }
  .phone.has-img { width: 100%; max-width: 160px; height: 200px; border: none; background: none; }
  .phone img { width: 100%; height: 100%; object-fit: contain; display: block; }
