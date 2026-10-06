@@ -717,7 +717,7 @@ x: {
     image: "18promax.png",
     price: "15000-20000",
     date_released: "September 18, 2026",
-    display: "6.9-inch LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+    display: "6.9-inch LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 3000 nits (peak)",
     dimensions: "163.4 x 78.0 x 8.8 mm",
     weight: "249g",
     chip: "Apple A20 Pro (2 nm)",
