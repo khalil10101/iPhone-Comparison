@@ -695,7 +695,7 @@ x: {
   eighteenPro: {
     name: "iPhone 18 Pro",
     image: "18pro.png",
-    price: "17000-22000",
+    price: "17000-20000",
     date_released: "September 18, 2026",
     display: "6.3-inch LTPO Super Retina XDR OLED, 120Hz ProMotion, 1000 nits (typ), 1600 nits (HBM) 3000 nits (peak)",
     dimensions: "150 x 71.9 x 8.8 mm",
@@ -715,7 +715,7 @@ x: {
   eighteenProMax: {
     name: "iPhone 18 Pro Max",
     image: "18promax.png",
-    price: "15000-20000",
+    price: "18000-22000",
     date_released: "September 18, 2026",
     display: "6.9-inch LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 3000 nits (peak)",
     dimensions: "163.4 x 78.0 x 8.8 mm",

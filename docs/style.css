@@ -1,76 +1,172 @@
-
+.topbar {
+  background: rgba(14, 13, 13, 0.962);
+  color: #e8e8ee;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
+  width: 100%; 
+  max-width: 1200px; 
+}
+.site-name {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ff6a2b;
+  text-decoration: none;
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
+}
+.nav-links {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+}
+.nav-links a {
+  color: #d6d6e0;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 6px 2px;
+  border-bottom: 2px solid transparent;
+}
+.nav-links a:hover,
+.nav-links a:focus-visible {
+  color: #ffffff;
+  border-bottom-color: #ff6a2b;
+  outline: none;
+}
+@media (max-width: 760px) {
   .topbar {
-    background: rgba(14, 13, 13, 0.962);
-    color: #e8e8ee;
-    height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 32px;
-  }
-  .site-name {
-    font-size: 2.0rem;
-    font-weight: 700;
-    color:#ff6a2b;
-    text-decoration: none;
-    font-family : system-ui, -apple-system, sans-serif;
+    height: auto;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 16px;
   }
   .nav-links {
-    display: flex;
-    gap: 32px;
-    list-style: none;
+    flex-wrap: wrap;
+    gap: 8px 20px;
   }
-  .nav-links a {
-    color: #d6d6e0;
-    text-decoration: none;
-    font-size: 0.9rem;
-    font-weight: 600;
-    padding: 6px 2px;
-    border-bottom: 2px solid transparent;
-  }
-  .nav-links a:hover,
+}
+* {
+  box-sizing: border-box;
+}
+.phone.has-img {
+  width: 100%;
+  max-width: 160px;
+  height: 200px;
+  border: none;
+  background: none;
+}
+.phone img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+body {
+  margin: 0;
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
+  color: #1d1d1f;
+  background: #fff;
+}
+.wrap {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem 4rem;
+}
+h1 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin: 3rem 0 0.5rem;
+  letter-spacing: -0.02em;
+}
+.sub {
+  text-align: center;
+  color: #6e6e73;
+  margin: 0 0 2.5rem;
+}
+.cols {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+.top {
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(8px);
+  padding: 1rem 0;
+  border-bottom: 1px solid #d2d2d7;
+  z-index: 5;
+}
+.card {
+  text-align: center;
+  min-width: 0;
+}
+.phone {
+  width: 100px;
+  height: 200px;
+  margin: 0 auto 0.8rem;
+  border-radius: 16px;
+  border: 3px solid #1d1d1f;
+  transition: background 0.3s;
+}
+.phone.empty {
+  background: #f5f5f7;
+  border-style: dashed;
+  border-color: #c7c7cc;
+}
+select {
+  min-width: 0;
+  width: 100%;
+  max-width: 200px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #c7c7cc;
+  background: #fff;
+}
+.price {
+  margin: 0.6rem 0 0;
+  font-weight: 600;
+  min-height: 1.4em;
+}
+/* Spec rows */
+.spec {
+  padding: 1.4rem 0;
+  border-bottom: 1px solid #e8e8ed;
+}
+.label {
+  font-size: 0.85rem;
+  color: #6e6e73;
+  margin: 0 0 0.5rem;
+}
+.spec .cols > div {
+  text-align: center;
+  font-size: 1.05rem;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.spec.diff .cols > div {
+  font-weight: 700;
+}                                 /* rows that differ get bold here  */
 
-  .nav-links a:focus-visible {
-    color: #ffffff;
-    border-bottom-color: #ff6a2b;
-    outline: none;
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.8rem;
   }
-  @media (max-width: 760px) {
-    .topbar {
-      height: auto;
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 10px;
-      padding: 12px 16px;
-    }
-    .nav-links { flex-wrap: wrap; gap: 8px 20px; }
+  .phone {
+    width: 50px;
+    height: 100px;
   }
-* {box-sizing: border-box; }
- .phone.has-img { width: 100%; max-width: 160px; height: 200px; border: none; background: none; }
- .phone img { width: 100%; height: 100%; object-fit: contain; display: block; }
-  body { margin: 0; font-family: system-ui, -apple-system, sans-serif; color: #1d1d1f; background: #fff; }
-  .wrap { max-width: 1000px; margin: 0 auto; padding: 0 1rem 4rem; }
-  h1 { text-align: center; font-size: 2.6rem; margin: 3rem 0 .5rem; letter-spacing: -.02em; }
-  .sub { text-align: center; color: #6e6e73; margin: 0 0 2.5rem; }
- 
-  .cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
- 
-  .top { position: sticky; top: 0; background: rgba(255,255,255,.92); backdrop-filter: blur(8px);
-         padding: 1rem 0; border-bottom: 1px solid #d2d2d7; z-index: 5; }
-  .card { text-align:center; min-width: 0; }
-  .phone {width: 100px; height: 200px; margin: 0 auto .8rem; border-radius: 16px; border: 3px solid #1d1d1f; transition: background .3s; }
-  .phone.empty { background: #f5f5f7; border-style: dashed; border-color: #c7c7cc; }
-   select { min-width: 0; width: 100%; max-width: 200px; padding: .5rem; font-size: 1rem; border-radius: 8px; border: 1px solid #c7c7cc; background: #fff; }
-  .price { margin: .6rem 0 0; font-weight: 600; min-height: 1.4em; }
- 
-  /* Spec rows */
-  .spec { padding: 1.4rem 0; border-bottom: 1px solid #e8e8ed; }
-  .label { font-size: .85rem; color: #6e6e73; margin: 0 0 .5rem; }
-  .spec .cols > div { text-align: center; font-size: 1.05rem; min-width: 0; overflow-wrap: anywhere; }
-  .spec.diff .cols > div { font-weight: 600; }   /* rows that differ get bold */
- 
-  @media (max-width: 600px) {
-    h1 { font-size: 1.8rem; }
-    .phone { width: 50px; height: 100px; }
-    .spec .cols > div { font-size: .9rem; }
+  .spec .cols > div {
+    font-size: 0.9rem;
   }
+}

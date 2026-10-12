@@ -1,7 +1,6 @@
   const chosen = Object.keys(phones).slice(0, 3);
   const pickers = document.getElementById("pickers");
   const specsBox = document.getElementById("specs");
- 
   chosen.forEach((_, i) => {
     const card = document.createElement("div");
     card.className = "card";
